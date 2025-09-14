@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/567887130860570653/bd5113bad7d643a393d83fbc8fc4a062/artifacts
+end_time: 1757840788717
+entry_point_name: ''
+experiment_id: '567887130860570653'
+lifecycle_stage: active
+run_id: bd5113bad7d643a393d83fbc8fc4a062
+run_name: painted-turtle-397
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757840782535
+status: 3
+tags: []
+user_id: Client

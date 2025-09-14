@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/567887130860570653/5995ba308ac546c6bcc806516a89dace/artifacts
+end_time: 1757840620924
+entry_point_name: ''
+experiment_id: '567887130860570653'
+lifecycle_stage: active
+run_id: 5995ba308ac546c6bcc806516a89dace
+run_name: calm-roo-803
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757840608646
+status: 3
+tags: []
+user_id: Client
