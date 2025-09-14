@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/526131317083639480/be28620b0ff443bbadb3cd7388e13f7b/artifacts
+end_time: 1757868856594
+entry_point_name: ''
+experiment_id: '526131317083639480'
+lifecycle_stage: active
+run_id: be28620b0ff443bbadb3cd7388e13f7b
+run_name: receptive-moth-955
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757868848687
+status: 3
+tags: []
+user_id: Client
