@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Client/Desktop/Complete_MLops_Course/MLOPS-Experiments-with-MLFlow/mlruns/123438142636933750/734beda73e2346c59e04545d73cbbe85/artifacts
+end_time: 1757869335361
+entry_point_name: ''
+experiment_id: '123438142636933750'
+lifecycle_stage: active
+run_id: 734beda73e2346c59e04545d73cbbe85
+run_name: popular-horse-314
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757869335235
+status: 3
+tags: []
+user_id: Client

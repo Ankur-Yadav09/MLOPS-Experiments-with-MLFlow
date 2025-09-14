@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Client/Desktop/Complete_MLops_Course/MLOPS-Experiments-with-MLFlow/mlruns/123438142636933750/b7a2468f20724cdcbc86bf28be1a452a/artifacts
+end_time: 1757869345468
+entry_point_name: ''
+experiment_id: '123438142636933750'
+lifecycle_stage: active
+run_id: b7a2468f20724cdcbc86bf28be1a452a
+run_name: capricious-perch-572
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757869328048
+status: 3
+tags: []
+user_id: Client

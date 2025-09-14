@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Client/Desktop/Complete_MLops_Course/MLOPS-Experiments-with-MLFlow/mlruns/123438142636933750/d5fe6855dd884939849913ff5111e7bb/artifacts
+end_time: 1757869336081
+entry_point_name: ''
+experiment_id: '123438142636933750'
+lifecycle_stage: active
+run_id: d5fe6855dd884939849913ff5111e7bb
+run_name: luxuriant-sheep-741
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757869335988
+status: 3
+tags: []
+user_id: Client

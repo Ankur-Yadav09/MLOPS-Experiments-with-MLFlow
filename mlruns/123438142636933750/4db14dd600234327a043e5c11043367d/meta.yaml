@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Client/Desktop/Complete_MLops_Course/MLOPS-Experiments-with-MLFlow/mlruns/123438142636933750/4db14dd600234327a043e5c11043367d/artifacts
+end_time: 1757869335509
+entry_point_name: ''
+experiment_id: '123438142636933750'
+lifecycle_stage: active
+run_id: 4db14dd600234327a043e5c11043367d
+run_name: indecisive-asp-945
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757869335371
+status: 3
+tags: []
+user_id: Client

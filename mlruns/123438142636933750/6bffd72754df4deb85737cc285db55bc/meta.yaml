@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Client/Desktop/Complete_MLops_Course/MLOPS-Experiments-with-MLFlow/mlruns/123438142636933750/6bffd72754df4deb85737cc285db55bc/artifacts
+end_time: 1757869335123
+entry_point_name: ''
+experiment_id: '123438142636933750'
+lifecycle_stage: active
+run_id: 6bffd72754df4deb85737cc285db55bc
+run_name: nebulous-owl-865
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757869335027
+status: 3
+tags: []
+user_id: Client

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Client/Desktop/Complete_MLops_Course/MLOPS-Experiments-with-MLFlow/mlruns/123438142636933750/b4c4ced370b248b38d3d6afed72ec546/artifacts
+end_time: 1757869334893
+entry_point_name: ''
+experiment_id: '123438142636933750'
+lifecycle_stage: active
+run_id: b4c4ced370b248b38d3d6afed72ec546
+run_name: crawling-gull-660
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757869334750
+status: 3
+tags: []
+user_id: Client

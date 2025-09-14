@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Client/Desktop/Complete_MLops_Course/MLOPS-Experiments-with-MLFlow/mlruns/123438142636933750/313588da10b94149a367ce71216e4403/artifacts
+end_time: 1757869335635
+entry_point_name: ''
+experiment_id: '123438142636933750'
+lifecycle_stage: active
+run_id: 313588da10b94149a367ce71216e4403
+run_name: invincible-calf-236
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757869335517
+status: 3
+tags: []
+user_id: Client
